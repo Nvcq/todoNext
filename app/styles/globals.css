@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.sheesh:last-child {
+  color: red;
+}
