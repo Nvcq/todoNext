@@ -1,0 +1,19 @@
+.marketcontainer {
+    width: 100%;
+    text-align: center;
+}
+
+.section {
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+}
+
+.h3 {
+    padding-bottom: 25px;
+    font-weight: bold;
+    color: red;
+    font-size: 2rem;
+}
