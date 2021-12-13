@@ -4,9 +4,9 @@ import styles from '../styles/Navbar.module.css';
 export default function NavBar() {
     return(
         <div className={styles.navcontainer}>
-            <p>dandan</p>
-            <p>floflo</p>
-            <p>mini popow</p>
+            <p>Ney</p>
+            <p>Gigio</p>
+            <p>Noisette</p>
         </div>
     )
 
